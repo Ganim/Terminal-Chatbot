@@ -15,7 +15,7 @@ Este trabalho tem como objetivo geral desenvolver um chatbot de escopo fechado u
 1. Certifique-se de ter o Java SDK instalado.
 2. Clone o repositório do projeto:
   ```bash
-  git clone https://github.com/usuario/projeto-chatbot.git
+  git clone https://github.com/Ganim/Terminal-Chatbot
   ```
 3. Navegue até o diretório src/ do projeto:
   ```bash
